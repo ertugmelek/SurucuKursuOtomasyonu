@@ -1,0 +1,42 @@
+c:\users\user\documents\visual studio 2012\Projects\Sürücü Kursu Otomasyonu\Sürücü Kursu Otomasyonu\bin\Debug\Sürücü Kursu Otomasyonu.exe.config
+c:\users\user\documents\visual studio 2012\Projects\Sürücü Kursu Otomasyonu\Sürücü Kursu Otomasyonu\obj\Debug\Sürücü Kursu Otomasyonu.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\Sürücü Kursu Otomasyonu\Sürücü Kursu Otomasyonu\obj\Debug\Sürücü_Kursu_Otomasyonu.Properties.Resources.resources
+c:\users\user\documents\visual studio 2012\Projects\Sürücü Kursu Otomasyonu\Sürücü Kursu Otomasyonu\obj\Debug\Sürücü Kursu Otomasyonu.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2012\Projects\Sürücü Kursu Otomasyonu\Sürücü Kursu Otomasyonu\bin\Debug\Sürücü Kursu Otomasyonu.exe
+c:\users\user\documents\visual studio 2012\Projects\Sürücü Kursu Otomasyonu\Sürücü Kursu Otomasyonu\bin\Debug\Sürücü Kursu Otomasyonu.pdb
+c:\users\user\documents\visual studio 2012\Projects\Sürücü Kursu Otomasyonu\Sürücü Kursu Otomasyonu\obj\Debug\Sürücü_Kursu_Otomasyonu.KayitEkle.resources
+c:\users\user\documents\visual studio 2012\Projects\Sürücü Kursu Otomasyonu\Sürücü Kursu Otomasyonu\obj\Debug\Sürücü Kursu Otomasyonu.exe
+c:\users\user\documents\visual studio 2012\Projects\Sürücü Kursu Otomasyonu\Sürücü Kursu Otomasyonu\obj\Debug\Sürücü Kursu Otomasyonu.pdb
+c:\users\user\documents\visual studio 2012\Projects\Sürücü Kursu Otomasyonu\Sürücü Kursu Otomasyonu\obj\Debug\Sürücü_Kursu_Otomasyonu.PersonelEkrani.resources
+c:\users\user\documents\visual studio 2012\Projects\Sürücü Kursu Otomasyonu\Sürücü Kursu Otomasyonu\obj\Debug\Sürücü_Kursu_Otomasyonu.KayitSil.resources
+C:\Users\UseR\Documents\Visual Studio 2012\Projects\Sürücü Kursu Otomasyonu\Sürücü Kursu Otomasyonu\obj\Debug\Sürücü_Kursu_Otomasyonu.KayitDüzenle.resources
+C:\Users\UseR\Documents\Visual Studio 2012\Projects\Sürücü Kursu Otomasyonu\Sürücü Kursu Otomasyonu\obj\Debug\Sürücü_Kursu_Otomasyonu.OgretmenEkle.resources
+C:\Users\UseR\Documents\Visual Studio 2012\Projects\Sürücü Kursu Otomasyonu\Sürücü Kursu Otomasyonu\obj\Debug\Sürücü_Kursu_Otomasyonu.OgretmenSil.resources
+C:\Users\UseR\Documents\Visual Studio 2012\Projects\Sürücü Kursu Otomasyonu\Sürücü Kursu Otomasyonu\obj\Debug\Sürücü_Kursu_Otomasyonu.DersProgrami.resources
+C:\Users\UseR\Documents\Visual Studio 2012\Projects\Sürücü Kursu Otomasyonu\Sürücü Kursu Otomasyonu\obj\Debug\Sürücü_Kursu_Otomasyonu.SinavTakvimi.resources
+C:\Users\UseR\Documents\Visual Studio 2012\Projects\Sürücü Kursu Otomasyonu\Sürücü Kursu Otomasyonu\obj\Debug\Sürücü_Kursu_Otomasyonu.PersonelEkle.resources
+C:\Users\UseR\Documents\Visual Studio 2012\Projects\Sürücü Kursu Otomasyonu\Sürücü Kursu Otomasyonu\obj\Debug\Sürücü_Kursu_Otomasyonu.PersonelDüzenle.resources
+C:\Users\UseR\Documents\Visual Studio 2012\Projects\Sürücü Kursu Otomasyonu\Sürücü Kursu Otomasyonu\obj\Debug\Sürücü_Kursu_Otomasyonu.PersonelSil.resources
+C:\Users\UseR\Documents\Visual Studio 2012\Projects\Sürücü Kursu Otomasyonu\Sürücü Kursu Otomasyonu\obj\Debug\Sürücü_Kursu_Otomasyonu.Giriş.resources
+C:\Users\UseR\documents\visual studio 2012\Projects\Sürücü Kursu Otomasyonu\Sürücü Kursu Otomasyonu\obj\Debug\Sürücü_Kursu_Otomasyonu.VeriKaydetme.resources
+C:\Users\UseR\Desktop\Sürücü Kursu Otomasyonu\Sürücü Kursu Otomasyonu\bin\Debug\Sürücü Kursu Otomasyonu.exe.config
+C:\Users\UseR\Desktop\Sürücü Kursu Otomasyonu\Sürücü Kursu Otomasyonu\obj\Debug\Sürücü Kursu Otomasyonu.exe
+C:\Users\UseR\Desktop\Sürücü Kursu Otomasyonu\Sürücü Kursu Otomasyonu\obj\Debug\Sürücü Kursu Otomasyonu.pdb
+C:\Users\UseR\Desktop\Sürücü Kursu Otomasyonu\Sürücü Kursu Otomasyonu\bin\Debug\Sürücü Kursu Otomasyonu.exe
+C:\Users\UseR\Desktop\Sürücü Kursu Otomasyonu\Sürücü Kursu Otomasyonu\bin\Debug\Sürücü Kursu Otomasyonu.pdb
+C:\Users\UseR\Desktop\Sürücü Kursu Otomasyonu\Sürücü Kursu Otomasyonu\obj\Debug\Sürücü Kursu Otomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\UseR\Desktop\Sürücü Kursu Otomasyonu\Sürücü Kursu Otomasyonu\obj\Debug\Sürücü_Kursu_Otomasyonu.DersProgrami.resources
+C:\Users\UseR\Desktop\Sürücü Kursu Otomasyonu\Sürücü Kursu Otomasyonu\obj\Debug\Sürücü_Kursu_Otomasyonu.VeriKaydetme.resources
+C:\Users\UseR\Desktop\Sürücü Kursu Otomasyonu\Sürücü Kursu Otomasyonu\obj\Debug\Sürücü_Kursu_Otomasyonu.Giriş.resources
+C:\Users\UseR\Desktop\Sürücü Kursu Otomasyonu\Sürücü Kursu Otomasyonu\obj\Debug\Sürücü_Kursu_Otomasyonu.OgretmenEkle.resources
+C:\Users\UseR\Desktop\Sürücü Kursu Otomasyonu\Sürücü Kursu Otomasyonu\obj\Debug\Sürücü_Kursu_Otomasyonu.OgretmenSil.resources
+C:\Users\UseR\Desktop\Sürücü Kursu Otomasyonu\Sürücü Kursu Otomasyonu\obj\Debug\Sürücü_Kursu_Otomasyonu.PersonelDüzenle.resources
+C:\Users\UseR\Desktop\Sürücü Kursu Otomasyonu\Sürücü Kursu Otomasyonu\obj\Debug\Sürücü_Kursu_Otomasyonu.PersonelEkle.resources
+C:\Users\UseR\Desktop\Sürücü Kursu Otomasyonu\Sürücü Kursu Otomasyonu\obj\Debug\Sürücü_Kursu_Otomasyonu.PersonelEkrani.resources
+C:\Users\UseR\Desktop\Sürücü Kursu Otomasyonu\Sürücü Kursu Otomasyonu\obj\Debug\Sürücü_Kursu_Otomasyonu.KayitEkle.resources
+C:\Users\UseR\Desktop\Sürücü Kursu Otomasyonu\Sürücü Kursu Otomasyonu\obj\Debug\Sürücü_Kursu_Otomasyonu.KayitDüzenle.resources
+C:\Users\UseR\Desktop\Sürücü Kursu Otomasyonu\Sürücü Kursu Otomasyonu\obj\Debug\Sürücü_Kursu_Otomasyonu.KayitSil.resources
+C:\Users\UseR\Desktop\Sürücü Kursu Otomasyonu\Sürücü Kursu Otomasyonu\obj\Debug\Sürücü_Kursu_Otomasyonu.PersonelSil.resources
+C:\Users\UseR\Desktop\Sürücü Kursu Otomasyonu\Sürücü Kursu Otomasyonu\obj\Debug\Sürücü_Kursu_Otomasyonu.Properties.Resources.resources
+C:\Users\UseR\Desktop\Sürücü Kursu Otomasyonu\Sürücü Kursu Otomasyonu\obj\Debug\Sürücü_Kursu_Otomasyonu.SinavTakvimi.resources
+C:\Users\UseR\Desktop\Sürücü Kursu Otomasyonu\Sürücü Kursu Otomasyonu\obj\Debug\Sürücü Kursu Otomasyonu.csproj.GenerateResource.Cache

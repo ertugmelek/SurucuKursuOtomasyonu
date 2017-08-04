@@ -1,0 +1,10 @@
+﻿32145678912|ali|yılmaz|(111) 111-1111|edirne
+26508331562|ayşe|şeker|(222) 222-2222|istanbul
+22233665448|kerem|özdemir|(333) 333-3333|sinop
+44555666998|pelin|yıldırım|(444) 444-4444|bilecik
+99886633002|hacer|nazik|(555) 555-5555|istanbul
+32456279221|mervenur|genç|(666) 666-6666|ordu
+21300256359|gülhan|kavuklu|(777) 777-7777|çorum
+12346487894|sinem|ak|(888) 888-8888|kastamonu
+13187893584|hilal|korkmaz|(999) 999-9999|samsun
+36978562056|eda|gör|(321) 467-8998|giresun

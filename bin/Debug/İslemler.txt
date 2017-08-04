@@ -1,0 +1,2 @@
+45678912536|C|Getirmedi|Getirdi|Getirdi|Getirmedi
+12345678912|F|Getirmedi|Getirdi|Getirdi|Getirmedi
